@@ -1,0 +1,6 @@
+{
+  "name": "The Daily Cup Cafe",
+  "description": "Modern, responsive web app for The Daily Cup Cafe in Karawal Nagar, Delhi. Featuring digital menu, meal combos, photo gallery, online WhatsApp ordering, and location.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
